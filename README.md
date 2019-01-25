@@ -3,7 +3,7 @@ Very niche program! So I was speedrunning classic Dink Smallwood (pre-HD release
 
 I kind of want to listen to my own music during this though, so at first I tried just deleting the midis. The game still ran properly, but now the lag was gone!
 
-Because I'm an idiot we now have this program that takes the original midis and just lowers the volume on all notes as much as possible.
+Because I'm an idiot we now have this program that takes the original midis and just lowers the volume on all notes as much as possible. Also it turned out that this made the lag about 0.6s worse on every load, so this was completely pointless.
 
 ***1. Put in a folder with midis and run***
 
